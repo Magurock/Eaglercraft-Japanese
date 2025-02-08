@@ -1,4 +1,4 @@
-# EaglerCraft 1.8 日本語版
+# Eaglercraft 1.5.2 日本語版
 [ここ](https://u5kun.github.io/Eaglercraft-Japanese/) でプレイできます。ダウンロードは不要。日本語です。
 <br>
 ネタで[パノラマ](https://ja.minecraft.wiki/w/%E3%83%91%E3%83%8E%E3%83%A9%E3%83%9E)とメインメニューのBGMをソ連仕様にしています。
